@@ -1,0 +1,38 @@
+*{
+    padding: O;
+    margin: 0;
+}
+body{
+    width: 90%;
+    padding: 50px; 
+}
+.alert{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    padding: 20px;
+    border-radius: .6rem;
+    color: gray;
+    box-shadow: 0px 0px 15px 0 gray;
+    margin-bottom: 10px;
+}
+
+.alert-success{
+    border : 3px solid #2ECC71; 
+}
+.alert i{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.alert a{
+    color: blue;
+    cursor: pointer;
+}
+.alert-warning{
+    border : 3px solid #F8C471;
+}
+.alert-danger{
+    border : 3px solid red;
+}
