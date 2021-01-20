@@ -1,0 +1,33 @@
+
+*{
+    padding: O;
+    margin: 0;
+}
+body{
+    width: 90%;
+    padding: 50px; 
+}
+
+.avatar {
+    vertical-align: middle;
+    border-radius: 50%;
+    padding: 2px;
+    width: 90px;
+    height: 90px;
+    margin: 10px;
+}
+.small{
+    
+}
+.big {
+    width: 130px;
+    height: 130px;
+}
+.border{
+   
+    border: 1px solid lightgray;
+}
+.box{
+    border-radius: 0%;
+    border: 1px solid lightgray;
+}
